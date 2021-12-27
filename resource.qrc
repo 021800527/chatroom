@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bold.png</file>
+        <file>image/clear.png</file>
+        <file>image/color.png</file>
+        <file>image/italic.png</file>
+        <file>image/save.png</file>
+        <file>image/send.png</file>
+        <file>image/skin.png</file>
+        <file>image/speak.png</file>
+        <file>image/under.png</file>
+        <file>icon/background.jpg</file>
+        <file>icon/bargroud.jpg</file>
+        <file>icon/close.png</file>
+        <file>icon/head.jpg</file>
+        <file>icon/IP.png</file>
+        <file>icon/max.png</file>
+        <file>icon/min.png</file>
+        <file>icon/name.png</file>
+        <file>image/color1.png</file>
+    </qresource>
+</RCC>
